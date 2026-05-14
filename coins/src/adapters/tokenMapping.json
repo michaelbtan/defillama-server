@@ -17186,6 +17186,16 @@
       "to": "coingecko#rocket-pool-eth",
       "decimals": 18,
       "symbol": "rETH"
+    },
+    "0xcdc93d30182125e05eec985b631c7c61b3f63ff0": {
+      "to": "coingecko#tether-gold",
+      "decimals": 18,
+      "symbol": "GOLDST"
+    },
+    "0x2c59ef92d08efde71fe1a1cb5b45f4f6d48fcc94": {
+      "to": "coingecko#kinesis-silver",
+      "decimals": 18,
+      "symbol": "SILVST"
     }
   }
 }
