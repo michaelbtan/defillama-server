@@ -17196,6 +17196,11 @@
       "to": "coingecko#kinesis-silver",
       "decimals": 18,
       "symbol": "SILVST"
+    },
+    "0x937efa7e3a77e20bbdbd7c0d32b6514f368c1010": {
+      "to": "coingecko#tether",
+      "decimals": 18,
+      "symbol": "USDST"
     }
   }
 }
